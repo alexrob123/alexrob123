@@ -20,7 +20,7 @@ Master's Degree in Mathematics from Université Paris-Dauphine.
 
 I'm intereseted in the mathematical approach to artificial intelligence.
 
-🔭 Currently pursuing a PhD at Université Paris-Dauphine on conditional precision and recall in generative models.  
+🔭 Currently pursuing a PhD at Université Paris-Dauphine on evaluation of conditional generative models.  
   
 🌱 Continuously learning about Artificial Intelligence (Deep Learning, NLP, Reinforcement Learning, Graph Learning, Computer Vision).  
   
